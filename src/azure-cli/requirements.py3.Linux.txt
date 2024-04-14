@@ -102,7 +102,7 @@ cryptography==3.3.2
 distro==1.6.0
 fabric==2.4.0
 humanfriendly==9.1
-idna==2.8
+idna==3.7
 invoke==1.2.0
 isodate==0.6.0
 javaproperties==0.5.1
