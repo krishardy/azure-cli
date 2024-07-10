@@ -139,3 +139,4 @@ vsts==0.1.25
 wcwidth==0.1.7
 websocket-client==0.56.0
 xmltodict==0.12.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
